@@ -1,1 +1,1 @@
-# odin-recipes
+# This is currently a simple HTML project: a webpage that links to 4 recipes.
